@@ -22,6 +22,7 @@
 class Solution {
 public:
 
+// Recursively split the list around the middle node, forming left and right subtrees connected to the root by assigning middle of left ll and right ll:
 TreeNode* solve(ListNode* start, ListNode* end){
     if(start == end) return NULL;
     ListNode* s = start; 
