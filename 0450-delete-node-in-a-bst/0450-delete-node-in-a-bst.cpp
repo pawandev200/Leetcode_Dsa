@@ -23,8 +23,10 @@ public:
             //finding the rightmost ele and replacing it with the curr node(root)
             TreeNode* temp = root->left; 
             while(temp->right) temp = temp->right; 
-            root->val = temp->val;
-            root->left = solve(root->left, temp->val); // deleting the right most ele
+            temp->right = root->right; 
+            TreeNode* rootleft = root->left; 
+            delete(root);
+            return rootleft; 
         } 
 
     }
