@@ -11,17 +11,15 @@
  */
 class Solution {
 public:
-
-void solve(TreeNode* root, int &cnt, int maxn){
-    if(!root) return; 
-    if(root->val >= maxn){
+// Traverse the tree, keeping track of the largest value seen so far on each path, and count nodes with values greater than or equal to this maximum.
+void solve(TreeNode* root, int& cnt, int maxVal) { 
+    if (!root) return; 
+    if (root->val >= maxVal){
         cnt++;
-        solve(root->left, cnt, root->val); 
-        solve(root->right, cnt, root->val);
-    } else{
-        solve(root->left, cnt, maxn); 
-        solve(root->right, cnt, maxn); 
-    }
+        maxVal = root->val;
+    } 
+    solve(root->left, cnt, maxVal);
+    solve(root->right, cnt, maxVal); 
 }
     int goodNodes(TreeNode* root) {
         if(!root) return 0; 
