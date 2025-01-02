@@ -10,23 +10,28 @@
  * };
  */
 class Solution {
-public:
-    int cnt= 0; 
-    void solve(TreeNode* root, int t, long long pathsum){
-        if(!root) return ;
-    
-        pathsum += root->val; 
-        if(t == pathsum) cnt++; 
-        solve(root->left, t , pathsum);
-        solve(root->right, t , pathsum);
-    }
-    int pathSum(TreeNode* root, int t) {
-        if(!root) return 0; 
-        long long pathsum =0; 
-        solve(root, t, pathsum);
+    public:
 
-        pathSum(root->left, t);
-        pathSum(root->right, t);
-        return cnt; 
+    unordered_map<long, int> mp;
+    int count;
+    int target;
+    void find(TreeNode* root, long sum) {
+        if (root == 0) return;
+        sum += root->val;
+        int prefixSum = sum - target;
+        if (mp.count(prefixSum)) {
+            count += mp[prefixSum];
+        }
+        mp[sum]++;
+        find(root->left, sum);
+        find(root->right, sum);
+        mp[sum]--;
+    }
+    int pathSum(TreeNode* root, int targetSum) {
+        count = 0;
+        target = targetSum;
+        mp[0] = 1;
+        find(root, 0);
+        return count;
     }
 };
