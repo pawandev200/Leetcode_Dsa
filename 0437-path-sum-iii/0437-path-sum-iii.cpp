@@ -12,13 +12,13 @@
 class Solution {
     public:
 
-    unordered_map<long, int> mp;
+    unordered_map<long long , int> mp;
     int count;
     int target;
-    void find(TreeNode* root, long sum) {
+    void find(TreeNode* root, long long sum) {
         if (root == 0) return;
         sum += root->val;
-        int prefixSum = sum - target;
+        long long prefixSum = sum - target;
         if (mp.count(prefixSum)) {
             count += mp[prefixSum];
         }
