@@ -12,32 +12,31 @@
 
 class Solution {
 public:
-    struct Info {
-        bool isBST;
+    struct nodevalues {
         int sum;
         int minVal;
         int maxVal;
     };
 
-    Info dfs(TreeNode* root, int& maxSum) {
+    nodevalues dfs(TreeNode* root, int& maxSum) {
         if (!root) {
             // For an empty subtree, return default values
-            return {true, 0, INT_MAX, INT_MIN};
+            return {0, INT_MAX, INT_MIN};
         }
 
         // Recursively process the left and right subtrees
-        Info left = dfs(root->left, maxSum);
-        Info right = dfs(root->right, maxSum);
+        nodevalues left = dfs(root->left, maxSum);
+        nodevalues right = dfs(root->right, maxSum);
 
         // Check if the current tree is a valid BST
-        if (left.isBST && right.isBST && root->val > left.maxVal && root->val < right.minVal) {
+        if (root->val > left.maxVal && root->val < right.minVal) {
             int currSum = root->val + left.sum + right.sum;
-            maxSum = max(maxSum, currSum); // Update the maximum sum of a BST subtree
-            return {true, currSum, min(root->val, left.minVal), max(root->val, right.maxVal)};
+            maxSum = max(maxSum, currSum); // maximum sum of a BST subtree
+            return {currSum, min(root->val, left.minVal), max(root->val, right.maxVal)};
         }
 
         // If the current tree is not a valid BST, return a failure case
-        return {false, 0, INT_MIN, INT_MAX};
+        return {0, INT_MIN, INT_MAX};
     }
 
     int maxSumBST(TreeNode* root) {
@@ -46,4 +45,3 @@ public:
         return maxSum; // Return the result
     }
 };
-
