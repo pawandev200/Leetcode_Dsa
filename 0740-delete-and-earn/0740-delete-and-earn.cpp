@@ -5,7 +5,7 @@ public:
         if (dp[idx] != -1) return dp[idx];
         
         int skip = solve(points, dp, idx + 1);
-        int take = points[idx] + solve(points, dp, idx + 2);
+        int take = points[idx] + solve(points, dp, idx + 2); // no adjacent 
         
         return dp[idx] = max(skip, take);
     }
@@ -18,7 +18,7 @@ public:
         for (int num : nums) {
             points[num] += num;
         }
-        
+        // nums = [2, 2, 3, 3, 3, 4] -> [0, 0, 4, 9, 4] 
         vector<int> dp(points.size(), -1);
         
         return solve(points, dp, 0);
