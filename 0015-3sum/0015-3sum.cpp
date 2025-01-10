@@ -8,6 +8,7 @@ public:
 
         set<vector<int>>st; 
         for(int i =0; i<n; i++){
+            if(nums[i] > 0) break;
             int j = i+1;
             int k = n-1; 
             while(j < k){
