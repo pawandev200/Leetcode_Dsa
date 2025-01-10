@@ -6,9 +6,11 @@ public:
         sort(nums.begin(), nums.end());
         if(nums[0] > 0) return { };
 
-        set<vector<int>>st; 
+        vector<vector<int>>ans;
         for(int i =0; i<n; i++){
             if(nums[i] > 0) break;
+            if (i > 0 && nums[i] == nums[i - 1]) continue; //skipping the duplicates
+            
             int j = i+1;
             int k = n-1; 
             while(j < k){
@@ -16,14 +18,15 @@ public:
                 if(sum > 0) k--; 
                 else if(sum < 0) j++; 
                 else if(sum == 0){
-                    st.insert({nums[i], nums[j], nums[k]});
-                    j++; 
-                    k--; 
+                    ans.push_back({nums[i], nums[j], nums[k]});
+                    // to avoid the duplicates
+                    int lacj = nums[j];
+                    int fack = nums[k];
+                    while(j < k && lacj == nums[j]) j++; // updating the j
+                    while(j < k && fack == nums[k]) k--;  
                 }
             }
         }
-        vector<vector<int>>ans;
-        for(auto it: st) ans.push_back(it);
         return ans; 
     }
 };
