@@ -1,20 +1,21 @@
 class Solution {
 public:
-    
-    int counting(string s, int a, int b, char x){
-        int cnt =0; 
-        for(int i=a; i<=b; i++){
-            if(s[i] == x) cnt++; 
-        }
-        return cnt;  
-    }
     int maxScore(string s) {
         int n = s.size();
-        int maxs = 0; 
-        for(int i=0; i<n-1; i++){
-            int sum = counting(s, 0, i, '0') + counting(s, i+1, n-1, '1');
-            maxs = max(maxs, sum);
+        int totalones = 0; 
+        for(int i=0; i<n; i++){
+            if(s[i] == '1') totalones++; 
         }
-        return maxs; 
+        int lzeros = 0;
+        int rones = totalones; 
+        int maxi =0; 
+        for(int i =0; i<n; i++){
+            if(s[i] == '0') lzeros++;
+            else rones--;
+
+            int sum = lzeros + rones;
+            maxi = max(maxi, sum);
+        }
+        return maxi; 
     }
 };
