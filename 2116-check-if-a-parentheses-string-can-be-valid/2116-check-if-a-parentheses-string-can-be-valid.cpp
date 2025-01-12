@@ -11,12 +11,12 @@ public:
             else opencnt--; 
             if(opencnt < 0) return false; // Too many closing brackets
         }
-        opencnt = 0;
+        int closecnt = 0;
         // Right-to-left pass: Check if we can close enough to balance so far 
         for(int i= n-1; i>=0; i--){
-            if(s[i] == ')' || locked[i] == '0') opencnt++; 
-            else opencnt--; 
-            if(opencnt < 0) return false; // Too many opening brackets
+            if(s[i] == ')' || locked[i] == '0') closecnt++; 
+            else closecnt--; 
+            if(closecnt < 0) return false; // Too many opening brackets
         }
         return true; 
     }
