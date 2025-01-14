@@ -1,14 +1,14 @@
 class Solution {
 public:
     vector<int> findThePrefixCommonArray(vector<int>& a, vector<int>& b){
-        vector<int>ans(a.size(),0); 
-        unordered_set<int>st; 
-        for(int i=0; i<a.size(); i++){
-            st.insert(a[i]);
-            int cnt = 0; 
-            for(int j = i; j>=0; j--){
-                if(st.find(b[j]) != st.end()) cnt++; 
-            }
+        int n = a.size();
+        vector<int>ans(n);
+        vector<int>freq(n+1, 0); // contain count of common nums
+
+        int cnt = 0; 
+        for(int i =0; i<n; i++){
+            if(++freq[a[i]] == 2) cnt++; 
+            if(++freq[b[i]] == 2) cnt++; 
             ans[i] = cnt; 
         }
         return ans; 
