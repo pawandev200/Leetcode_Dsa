@@ -7,7 +7,7 @@ public:
 
         int cnt = 0; 
         for(int i =0; i<n; i++){
-            if(++freq[a[i]] == 2) cnt++; 
+            if(++freq[a[i]] == 2) cnt++;  // 2 means num present in both a and b
             if(++freq[b[i]] == 2) cnt++; 
             ans[i] = cnt; 
         }
