@@ -6,18 +6,19 @@ public:
         for(auto it: s) mp[it]++;
 
         // sorting based on freq: 
-        priority_queue<pair<int, char>>pq; // max - heap
+        vector<pair<int,char>>freq; 
         for(auto it: mp){
-            pq.push({it.second, it.first});
+            freq.push_back({it.second, it.first});
         }
+        auto comp = [](pair<int, char>&a, pair<int, char>&b){
+            return a.first > b.first;
+        };
+        sort(freq.begin(), freq.end(), comp);
 
-        // now building ans: 
         string ans; 
-        while(!pq.empty()){
-            int freq = pq.top().first; 
-            for(int i=0; i<freq; i++) ans.push_back(pq.top().second);
-            pq.pop();
-        }
+        for(auto it: freq){
+            ans.append(it.first, it.second); //it.first: freq times 
+        } 
         return ans; 
     }
 };
