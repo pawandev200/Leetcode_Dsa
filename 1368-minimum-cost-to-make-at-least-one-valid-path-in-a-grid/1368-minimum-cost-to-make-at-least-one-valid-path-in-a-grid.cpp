@@ -27,7 +27,7 @@ public:
                     if (newCost < cost[nr][nc]) {
                         cost[nr][nc] = newCost;
 
-                        if (i + 1 == grid[r][c]) q.push_front({nr, nc}); // No cost increase
+                        if (i + 1 == grid[r][c]) q.push_front({nr, nc}); // No cost 
                         else q.push_back({nr, nc}); // Cost increases by 1
                     }
                 }
