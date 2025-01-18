@@ -4,35 +4,38 @@ public:
         int n = grid.size();
         int m = grid[0].size();
 
-        // Initialize cost array with INT_MAX
-        vector<vector<int>> cost(n, vector<int>(m, INT_MAX));
-        deque<pair<int, int>> q;
+        // Directions for right, left, down, up
+        vector<pair<int, int>> directions = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+        queue<pair<int, int>> q; // Use a standard queue
+        vector<vector<int>> cost(n, vector<int>(m, INT_MAX)); // Track minimum cost to reach each cell
 
-        q.push_front({0, 0});
+        // Start from (0, 0) with cost 0
+        q.push({0, 0});
         cost[0][0] = 0;
-        vector<pair<int, int>> dir = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+
         while (!q.empty()) {
             auto [r, c] = q.front();
-            q.pop_front();
+            q.pop();
 
+            // Process all 4 directions
             for (int i = 0; i < 4; ++i) {
-                int nr = r + dir[i].first;
-                int nc = c + dir[i].second;
+                int new_r = r + directions[i].first;
+                int new_c = c + directions[i].second;
 
-                // Ensure the new position is within bounds
-                if (nr >= 0 && nr < n && nc >= 0 && nc < m) {
-                    int newCost = cost[r][c] + (i + 1 != grid[r][c] ? 1 : 0);
+                // Ensure within bounds
+                if (new_r >= 0 && new_r < n && new_c >= 0 && new_c < m) {
+                    int newCost = cost[r][c] + (i + 1 == grid[r][c] ? 0 : 1);
 
-                    // Update the cost and decide push_front or push_back
-                    if (newCost < cost[nr][nc]) {
-                        cost[nr][nc] = newCost;
-
-                        if (i + 1 == grid[r][c]) q.push_front({nr, nc}); // No cost 
-                        else q.push_back({nr, nc}); // Cost increases by 1
+                    // Update cost if a cheaper way is found
+                    if (newCost < cost[new_r][new_c]) {
+                        cost[new_r][new_c] = newCost;
+                        q.push({new_r, new_c}); // Push into queue
                     }
                 }
             }
         }
+
+        // Return the minimum cost to reach the bottom-right cell
         return cost[n - 1][m - 1];
     }
 };
