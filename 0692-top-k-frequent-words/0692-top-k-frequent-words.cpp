@@ -5,8 +5,8 @@ public:
         unordered_map<string, int>mp; 
         for(auto it: words) mp[it]++; 
 
-        //sorted based on freq: top k frequent need to keep: min - heap: 
-        // Min-Heap with custom comparator to sort by frequency, and lexicographically for ties.
+        // sorted based on freq: top k frequent need to keep: min - heap: 
+        // custom comparator to sort by frequency, and lexicographically for ties.
         auto comp = [](pair<int, string>&a, pair<int, string>&b){
             if(a.first == b.first) return a.second < b.second; 
             return a.first > b.first; 
