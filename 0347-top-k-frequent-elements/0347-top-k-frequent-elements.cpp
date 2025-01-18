@@ -7,14 +7,17 @@ public:
         for(int i=0; i<n; i++) mp[nums[i]]++;
 
         // min - heap to sort on the basis of freq: 
-       priority_queue<pair<int, int>>pq; //freq, num
-        for(auto it: mp) pq.push({it.second, it.first});
+       priority_queue<pair<int, int>,vector<pair<int,int>>, greater<pair<int, int>>>pq; //freq, num
+        for(auto it: mp){
+            pq.push({it.second, it.first});
+            if(pq.size()>k) pq.pop(); 
+        }
 
         while(pq.size()>0){
-            k--; 
+            // k--; 
             ans.push_back(pq.top().second);
             pq.pop();
-            if(k ==0) break;
+            // if(k ==0) break;
         }
         return ans; 
     }
