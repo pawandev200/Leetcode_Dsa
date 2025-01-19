@@ -31,11 +31,13 @@ public:
             int c = cell.second;
 
             for (auto& dir : dir) {
-                int nr = r + dir.first, nc = c + dir.second;
+                int nr = r + dir.first;
+                int nc = c + dir.second;
 
                 if (nr >= 0 && nc >= 0 && nr < m && nc < n && !vis[nr][nc]) {
+                    //if nh > ch then water can't be trapped
                     water += max(0, height - heightMap[nr][nc]);
-                    minHeap.push({max(height, heightMap[nr][nc]), {nr, nc}});
+                    minHeap.push({max(height, heightMap[nr][nc]), {nr, nc}}); //l to h
                     vis[nr][nc] = true;
                 }
             }
