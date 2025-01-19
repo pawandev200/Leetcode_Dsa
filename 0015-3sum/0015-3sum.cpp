@@ -23,7 +23,7 @@ public:
                     int lacj = nums[j];
                     int fack = nums[k];
                     while(j < k && lacj == nums[j]) j++; // updating the j
-                    while(j < k && fack == nums[k]) k--;  
+                    while(j < k && fack == nums[k]) k--; // updating the k
                 }
             }
         }
