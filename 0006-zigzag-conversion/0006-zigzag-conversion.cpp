@@ -10,7 +10,7 @@ public:
         for(int i =0; i<n; i++){
             rows[idx].push_back(s[i]);
             if(idx == 0) d =1; 
-            if(idx == r-1) d= -1; 
+            else if(idx == r-1) d= -1; 
             idx +=d; 
         }
 
