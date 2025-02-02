@@ -21,7 +21,7 @@ public:
         sort(players.begin(), players.end());
 
         dp.resize(n+1, vector<int>(n+1, -1));
-
+        // prev: last selected player
         return solve(0,-1, players);
     }
 };
