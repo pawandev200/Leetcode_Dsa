@@ -18,7 +18,6 @@ public:
             int idx2 = mtch[1];
             if(s1[idx1] == s2[idx2] && s1[idx2] == s2[idx1]) return true; 
         }
-
         return false; 
     }
 };
