@@ -11,7 +11,7 @@ public:
         int ans =0; 
         for(auto it: mp){
             int cnt = it.second; 
-            if(cnt > 1) ans+= cnt*4; 
+            if(cnt > 1) ans+= cnt*(cnt-1)*4; 
         }
         return ans; 
     }
