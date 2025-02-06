@@ -1,7 +1,7 @@
 class Solution {
 public:
+    // this is exact similar to: Partitions with Given Difference
     vector<vector<int>> dp;
-
     int solve(int i, int t, vector<int>& arr) {
         // Pruning
         if (t < 0) return 0;
