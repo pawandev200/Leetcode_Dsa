@@ -4,19 +4,8 @@ public:
         int n = prices.size();
         if (n == 0 || k == 0) return 0;
 
-        // If k is large enough, the problem reduces to unlimited transactions
-        if (k >= n / 2) {
-            int maxProfit = 0;
-            for (int i = 1; i < n; i++) {
-                if (prices[i] > prices[i - 1]) {
-                    maxProfit += prices[i] - prices[i - 1];
-                }
-            }
-            return maxProfit;
-        }
-
         // Initialize buy and profit arrays
-        vector<int> buy(k, INT_MAX); // Effective buying price for each transaction
+        vector<int> buy(k, INT_MAX); // Eff buying price for each transaction
         vector<int> profit(k, 0);    // Maximum profit after each transaction
 
         for (int i = 0; i < n; i++) {
@@ -31,8 +20,6 @@ public:
                 profit[j] = max(profit[j], currentPrice - buy[j]);
             }
         }
-
-        // The maximum profit after k transactions
-        return profit[k - 1];
+        return profit[k - 1]; // max profit after k transections
     }
 };
