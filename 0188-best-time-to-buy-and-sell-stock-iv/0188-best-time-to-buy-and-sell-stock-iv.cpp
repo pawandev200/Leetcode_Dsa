@@ -9,15 +9,15 @@ public:
         vector<int> profit(k, 0);    // Maximum profit after each transaction
 
         for (int i = 0; i < n; i++) {
-            int currentPrice = prices[i];
+            int cprice = prices[i];
 
             // Update buy and profit for each transaction
             for (int j = 0; j < k; j++) {
                 // Effective buying price for the j-th transaction
-                buy[j] = min(buy[j], currentPrice - (j > 0 ? profit[j - 1] : 0));
+                buy[j] = min(buy[j], cprice - (j > 0 ? profit[j - 1] : 0));
 
                 // Maximum profit after the j-th transaction
-                profit[j] = max(profit[j], currentPrice - buy[j]);
+                profit[j] = max(profit[j], cprice - buy[j]);
             }
         }
         return profit[k - 1]; // max profit after k transections
