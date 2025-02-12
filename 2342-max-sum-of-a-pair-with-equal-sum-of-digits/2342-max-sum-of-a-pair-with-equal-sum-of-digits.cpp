@@ -1,27 +1,26 @@
 class Solution {
- public:
-  int maximumSum(vector<int>& nums) {
-    constexpr int kMax = 9 * 9;
-    int ans = -1;
-    vector<vector<int>> count(kMax + 1);
-    for (const int num : nums)
-      count[getDigitSum(num)].push_back(num);
-    for (vector<int>& groupNums : count) {
-      if (groupNums.size() < 2)
-        continue;
-      ranges::sort(groupNums, greater<>());
-      ans = max(ans, groupNums[0] + groupNums[1]);
-    }
-    return ans;
-  }
+public:
 
- private:
-  int getDigitSum(int num) {
-    int digitSum = 0;
-    while (num > 0) {
-      digitSum += num % 10;
-      num /= 10;
+int digitsum(int num){
+    int sum =0; 
+    while(num>0){
+        sum+=num%10; 
+        num=num/10; 
     }
-    return digitSum;
-  }
+    return sum; 
+}
+    int maximumSum(vector<int>& nums) {
+        int n = nums.size();
+        unordered_map<int, int>mp; // sum, max num at that sum
+        int maxi = -1; 
+
+        for(int i=0; i<n; i++){
+            int sum  = digitsum(nums[i]);
+            if(mp.find(sum) != mp.end()){
+                maxi = max(maxi, nums[i] + mp[sum]);
+                mp[sum] = max(mp[sum], nums[i]);
+            } else mp[sum] = nums[i];
+        }
+        return maxi; 
+    }
 };
