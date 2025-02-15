@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // trying out all the partitions and check for the condition: 
     bool solve(int i, int t, string s){
         if(i==s.size()) return t==0; 
 
