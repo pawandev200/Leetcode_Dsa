@@ -7,7 +7,7 @@ public:
 
     void solve(int i, int n, int &cnt, string &temp, string &ans){
         //base case: 
-        if(i == n){
+        if(i == n){ // found a new candidate, but is this kth string
             // dec cnt globally(by &) to find the kth string from list
             if(--cnt ==0) ans = temp; 
             return; 
