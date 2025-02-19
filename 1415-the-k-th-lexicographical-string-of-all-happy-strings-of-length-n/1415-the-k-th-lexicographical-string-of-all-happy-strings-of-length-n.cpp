@@ -9,8 +9,8 @@ public:
         //base case: 
         if(i == n){ // found a new candidate, but is this kth string
             // dec cnt globally(by &) to find the kth string from list
-            // if(--cnt ==0) ans = temp;
-            ans.push_back(temp); 
+            // if(--cnt ==0) ans = temp; // without storing all strings
+            ans.push_back(temp);  // by storing 
             return; 
         }
         for(char ch = 'a'; ch<='c'; ch++){
