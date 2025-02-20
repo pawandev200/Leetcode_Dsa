@@ -18,15 +18,15 @@ public:
         int sum1 = root->val;
         
         if(root->left != NULL){
-          sum1 +=  rob(root->left->left);
-          sum1 += rob(root->left->right);
+          sum1 +=  solve(root->left->left);
+          sum1 += solve(root->left->right);
         }
         
         if(root->right != NULL){
-            sum1 += rob(root->right->left);
-            sum1 += rob(root->right->right);
+            sum1 += solve(root->right->left);
+            sum1 += solve(root->right->right);
         }
-        int sum2 = rob(root->left) + rob(root->right);
+        int sum2 = solve(root->left) + solve(root->right);
         return mp[root] = max(sum1,sum2); 
     }
     int rob(TreeNode* root) {
