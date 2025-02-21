@@ -11,9 +11,10 @@
  */
 class FindElements {
 public:
-    unordered_set<int>st; 
+    unordered_set<int>st;
+     
     void solve(TreeNode* root){
-        if(!root) return;
+        if(root == NULL) return;
 
         int x = root->val;
         if(root->left != NULL){
