@@ -10,27 +10,27 @@ public:
         if (bt[node] == -1 || time < bt[node]) {  
             profit += amount[node]; // Alice arrives first, takes full amount
         } else if (time == bt[node]) {
-            profit += amount[node] / 2; // Both arrive at the same time, split the amount
+            profit += amount[node] / 2; 
         }
-        // If Alice arrives after Bob, she gets nothing (no addition to profit)
+        // If Alice arrives after Bob, she gets nothing 
 
-        int maxChildProfit = INT_MIN;
+        int maxi = INT_MIN;
         bool isLeaf = true;
 
         // Traverse all children
         for (int child : tree[node]) {
             if (child != parent) {
                 isLeaf = false;
-                maxChildProfit = max(maxChildProfit, aliceDFS(child, node, time + 1, amount));
+                maxi = max(maxi, aliceDFS(child, node, time + 1, amount));
             }
         }
 
         // If it's a leaf node, return the current profit
         // Otherwise, add the maximum child profit
-        return profit + (isLeaf ? 0 : maxChildProfit);
+        return profit + (isLeaf ? 0 : maxi);
     }
 
-    int mostProfitablePath(vector<vector<int>>& edges, int bob, vector<int>& amount) {
+    int mostProfitablePath(vector<vector<int>>& edges, int bob, vector<int>& amount){
         int n = amount.size();
         tree.resize(n);
         bt.assign(n, -1); // Initialize Bob's time as -1 (unvisited)
