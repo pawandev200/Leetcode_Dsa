@@ -19,6 +19,6 @@ public:
             }
         }
 
-        return maxlen; 
+        return maxlen >= 3 ? maxlen : 0;
     }
 };
