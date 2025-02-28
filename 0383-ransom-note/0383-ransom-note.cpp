@@ -11,7 +11,7 @@ public:
 
         for(int i=0; i<26; i++){
             if(vect1[i]!=0 && vect2[i]==0) return false; 
-            if(vect1[i]!=0 && vect1[i] > vect2[i]) return false; 
+            if(vect1[i] > vect2[i]) return false; 
         }
         return true; 
     }
