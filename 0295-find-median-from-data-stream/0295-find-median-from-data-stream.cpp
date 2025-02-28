@@ -1,13 +1,13 @@
 class MedianFinder {
 public:
+// Requiring a data structure that keep the things sorted and track mid val
     multiset<int> st;  // to keep current list/ numbers in sorted order
     multiset<int>::iterator mid; // to track the mid val of the curr list 
 
-    MedianFinder() {
-    }
+    MedianFinder() {}
     
     void addNum(int num) {
-        // adding first num to the list 
+        // adding first number to the list 
         if(st.size() == 0) {
             st.insert(num);
             mid = st.begin();
@@ -15,7 +15,8 @@ public:
         else {
             st.insert(num);  
             
-            // Adjust the 'mid' iterator to point to the middle element
+            // each insertion can make size even or odd
+            // so adjusting the mid iterator accordingly by currval and prev midval
             if(st.size() % 2 == 0) {
                 if(num < *mid) mid--; // first middle val
             } 
@@ -27,15 +28,9 @@ public:
     
     double findMedian() {
         if(st.size() % 2 == 0) {
-            // If the size is even, return the average of the two middle elements
-            auto midP = mid; // first mid
-            midP++;   // second mid
-            return (double)(*mid + *midP) / 2;
+            return (double)(*mid + *next(mid)) / 2;
         } 
-        else {
-            // If the size is odd, return the middle element
-            return *mid;
-        }
+        else return *mid;
     }
 };
 
