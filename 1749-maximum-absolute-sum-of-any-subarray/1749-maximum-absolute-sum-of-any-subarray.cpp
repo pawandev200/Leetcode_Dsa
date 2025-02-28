@@ -7,7 +7,7 @@ public:
             if (sum > maxs) maxs = sum;
             if (sum < mins) mins = sum;
         }
-        cout<<maxs<<" "<<mins<<endl;
+        // cout<<maxs<<" "<<mins<<endl;
         return abs(maxs - mins);
     }
 };
