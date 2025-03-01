@@ -1,22 +1,12 @@
 class Solution {
 public:
-
-// pattern: even index for first occurrences of the pairs
-int singleNonDuplicate(vector<int>& nums) {
-    int n = nums.size();
-    int l = 0; 
-    int r = n - 1; 
-    while (l < r) {
-        int mid = l + (r - l) / 2; 
-        // Make mid even: for the pattern checking
-        if (mid % 2 == 1) mid--;  
-
-        if (nums[mid] == nums[mid + 1]) 
-            l = mid + 2;  // Pattern is followed till mid+1 
-        else 
-            r = mid; 
+    int singleNonDuplicate(vector<int>& nums) {
+        int n = nums.size();
+        for(int i = 0; i < n - 1; i += 2) {
+            if(nums[i] != nums[i + 1]) {
+                return nums[i]; // Found the unique element
+            }
+        }
+        return nums[n - 1]; // Unique element is at the last position
     }
-    return nums[l];
-}
-
 };
