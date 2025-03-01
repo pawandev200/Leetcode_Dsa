@@ -10,13 +10,12 @@ public:
         }
         vector<int>ans; 
         int cnt = 0; 
-        for(auto num: nums) if(num ==0) cnt++; 
         for(int i=0; i<n; i++){
-            if(nums[i] !=0) ans.push_back(nums[i]);
+            if(nums[i] == 0) cnt++; 
+            else if(nums[i] !=0) ans.push_back(nums[i]);
         }
-        while(cnt--){
-            ans.push_back(0);
-        }
+        while(cnt--) ans.push_back(0);
+        
         return ans; 
     }
 };
