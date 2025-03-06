@@ -16,7 +16,7 @@ public:
         ListNode* dummy = new ListNode(-101);
         ListNode* temp = head; 
         ListNode* ntemp = dummy;
-        map<int, int>mp; // node, cnt 
+        map<int, int>mp; // nodevalue, cnt 
         while(temp){
             mp[temp->val]++;
             temp= temp->next; 
