@@ -2,7 +2,7 @@ class MedianFinder {
 public:
 // Requiring a data structure that keep the things sorted and track mid val
     multiset<int> st;  // to keep current list/ numbers in sorted order
-    multiset<int>::iterator mid; // to track the mid val of the curr list 
+    multiset<int>::iterator mid; // to track the first mid val of the curr list 
 
     MedianFinder() {}
     
