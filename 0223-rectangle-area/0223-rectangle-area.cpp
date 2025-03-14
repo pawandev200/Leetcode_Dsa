@@ -4,7 +4,10 @@ public:
         int area1 = abs(ax2 - ax1) * abs(ay1 - ay2);
         int area2 = abs(bx2 - bx1) * abs(by1 - by2);
 
-        // common area: 
+        // common area:
+
+        // finding dimensions of common rectangle and if it is feasible 
+        // then calculate it's area and remove it from the total calculated area
         int l = max(ax1, bx1);
         int b = max(ay1, by1);
         int r = min(ax2, bx2);
