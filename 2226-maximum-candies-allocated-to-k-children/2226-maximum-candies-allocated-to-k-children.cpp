@@ -26,8 +26,8 @@ public:
         int ans = 0;  
         while(l<=r){
             int mid = l + (r-l)/2; 
-            if(check(mid, k, candies)){
-                ans = mid; 
+            if(check(mid, k, candies)){ 
+                ans = mid; // trying larger number of candy 
                 l = mid+1; 
             }
             else r = mid-1; 
