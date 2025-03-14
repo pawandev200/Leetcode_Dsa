@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // function to check, x candy can we divided among k childs or not: 
+    // function to check, x candy can we distributed among k childs or not: 
     bool check(int x, long long k, vector<int>&candies){
         int n = candies.size();
         long long cnt = 0; 
