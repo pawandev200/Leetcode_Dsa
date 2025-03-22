@@ -29,6 +29,7 @@ public:
                 int e = 0; 
                 dfs(i,v,e, adj, vis);
                 e = e/2; // since each edge counted twice 
+                // if calculated edge is equal to expected then it's a ccc; 
                 if(e == (v*(v-1)/2)) cnt++; 
             }
         }
