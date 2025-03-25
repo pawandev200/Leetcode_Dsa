@@ -1,8 +1,9 @@
 class Solution {
 public:
+    // sort in ascending order: 
     static bool comp(pair<int, int> a, pair<int, int> b){
         if(a.first == b.first) return a.second < b.second; 
-        return a.first < b.first;  // Changed to ascending order
+        return a.first < b.first;  
     }
 
     bool check(vector<pair<int, int>>& events){
@@ -28,7 +29,7 @@ public:
             arry.push_back({ey, -1});
         }
 
-        // Sort using the corrected comparator
+        // Sort in increasing order: 
         sort(arrx.begin(), arrx.end(), comp);
         sort(arry.begin(), arry.end(), comp);
 
