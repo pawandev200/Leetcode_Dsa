@@ -23,7 +23,7 @@ public:
         
         int cnt = 0; 
         for(auto num: nums){
-            cnt+= abs(num-med)/x; 
+            cnt+= abs(num-med)/x; // number of operation takes to make it equal 
         }
         return cnt; 
     }
