@@ -5,19 +5,15 @@ public:
         int cnt = 0;
 
         while (true) {
+            // checking if there is a duplicate, then need to erase:  
             unordered_map<int, int> mp;
             int temp = 0;
-
-            // Count how many elements appear more than once
             for (int num : nums) {
                 mp[num]++;
                 if (mp[num] == 2) temp++;
             }
+            if (temp == 0) break; // if no duplicate
 
-            // If no duplicates, we are done
-            if (temp == 0) break;
-
-            // Remove first 3 elements (or less if size is smaller)
             nums.erase(nums.begin(), nums.begin() + min(3, (int)nums.size()));
             cnt++;
         }
