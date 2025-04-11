@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     int countSymmetricIntegers(int l, int h) {
         int cnt = 0; 
         for(int i=l; i<=h; i++){
