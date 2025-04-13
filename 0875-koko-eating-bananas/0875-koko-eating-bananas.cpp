@@ -1,24 +1,29 @@
 class Solution {
 public:
-// Finish the current pile first: 
-// Koko focuses on eating all the bananas in one pile before moving on to the next pile.
 
+   bool check(int mid, int h, vector<int>& piles){
+       int tt = 0; 
+       for(int i=0; i<piles.size(); i++){
+        tt += (piles[i] + mid - 1) / mid;
+        if(tt>h) return false; 
+       }
+       return tt<=h; 
+   }
     int minEatingSpeed(vector<int>& piles, int h) {
         int n = piles.size();
-        sort(piles.begin(), piles.end());
 
+        // binary search on answer: 
         int l = 1; 
-        int r = piles[n-1]; // max time to eat: max val of piles
-        while(l<r){
-            int mid = l + (r-l)/2; 
-            // checking for mid speed can all banana be eaten under h hours:
-            int th = 0;  
-            for(int i=0; i<n; i++){
-                th += (piles[i] + mid - 1)/mid; 
+        int hi = *max_element(piles.begin(), piles.end());
+        int ans = 0; 
+        while(l<=hi){
+            int mid = l + (hi-l)/2;
+            if(check(mid, h, piles)){
+                ans = mid; 
+                hi = mid -1; 
             }
-            if(th<=h) r = mid; 
-            else l = mid+1; 
+            else l = mid + 1; 
         }
-        return l; 
+        return ans; 
     }
 };
