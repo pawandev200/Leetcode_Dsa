@@ -1,32 +1,26 @@
 class Solution {
-
-const long long MOD = 1e9 + 7;
 public:
-// Function to calculates the power of a number under a modulo
-long long mod_exp(int b, long long e, int m) {
-    long long res = 1;
-    long long base = b;
-    
-    while (e > 0) {
-        if (e % 2 == 1) {
-            res = (res * base) % m;
+    const int MOD = 1e9 + 7;
+
+    long long binpow(long long base, long long exp, long long mod) {
+        long long res = 1;
+        while (exp > 0) {
+            if (exp % 2 == 1) {
+                res = (res * base) % mod;
+            }
+            base = (base * base) % mod;
+            exp /= 2;
         }
-        base = (base * base) % m;
-        e /= 2;
+        return res;
     }
-    
-    return res;
-}
 
-int countGoodNumbers(long long n) { 
-    long long evens = (n + 1) / 2;   //total number of even positions
-    long long odds = n / 2;     //total number of even positions
+    int countGoodNumbers(long long n) {
+        long long even_positions = (n + 1) / 2; // 0, 2, 4,... (i.e., even indices)
+        long long odd_positions = n / 2;        // 1, 3, 5,... (i.e., odd indices)
 
-    // At even index:{0, 2, 4, 6, 8} -> total 5 possible digits to be filled
-    // At odd index:{2, 3, 5, 7} -> total 4 possible digits to be filled
-    
-    // Calculate the number of good digit strings
-    long long total = mod_exp(5, evens, MOD) * mod_exp(4, odds, MOD) % MOD;
-    return total;
- }
+        long long evens = binpow(5, even_positions, MOD);
+        long long odds = binpow(4, odd_positions, MOD);
+
+        return (int)((evens * odds) % MOD);
+    }
 };
