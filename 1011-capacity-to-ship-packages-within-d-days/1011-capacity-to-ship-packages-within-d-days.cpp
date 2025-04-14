@@ -5,7 +5,7 @@ public:
         int cap = 0;
         for(int i = 0; i < wt.size(); i++){
             if (cap + wt[i] > mid) {
-                dcnt++;        // Need one more day
+                dcnt++;        
                 cap = 0;
             }
             cap += wt[i];
