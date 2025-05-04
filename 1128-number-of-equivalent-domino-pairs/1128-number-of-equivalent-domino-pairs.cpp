@@ -1,17 +1,17 @@
 class Solution {
 public:
-    int numEquivDominoPairs(vector<vector<int>>& dom) {
-        int n = dom.size();
-        int cnt = 0; 
-        for(int i=0; i<n; i++){
-            int a = dom[i][0];
-            int b = dom[i][1];
-            for(int j =i+1; j<n; j++){
-                int c = dom[j][0];
-                int d = dom[j][1];
-                if((a==c && b ==d)||(a==d&&b==c)) cnt++; 
-            }
+    int numEquivDominoPairs(vector<vector<int>>& dominoes) {
+        unordered_map<int, int> count;
+        int res = 0;
+        
+        for (auto& d : dominoes) {
+            int a = min(d[0], d[1]);
+            int b = max(d[0], d[1]);
+            int key = a * 10 + b;  
+            res += count[key];
+            count[key]++;
         }
-        return cnt; 
+        
+        return res;
     }
 };
