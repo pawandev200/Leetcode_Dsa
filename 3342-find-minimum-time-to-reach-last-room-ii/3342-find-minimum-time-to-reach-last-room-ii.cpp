@@ -14,7 +14,10 @@ public:
 
         while (!pq.empty()) {
             auto curr = pq.top(); pq.pop();
-            int t = curr[0], r = curr[1], c = curr[2], adjust = curr[3];
+            int t = curr[0];
+            int r = curr[1];
+            int c = curr[2];
+            int adj = curr[3];
 
             if (r == n - 1 && c == m - 1) return t;
 
@@ -23,11 +26,11 @@ public:
                 int nc = c + d[1];
                 if (nr < 0 || nr >= n || nc < 0 || nc >= m) continue;
 
-                int nt = max(t, mt[nr][nc]) + 1 + (!adjust); //alternate 1s/2s moves
+                int nt = max(t, mt[nr][nc]) + 1 + (!adj); //alternate 1s/2s moves
 
                 if (nt < mint[nr][nc]) {
                     mint[nr][nc] = nt;
-                    pq.push({nt, nr, nc, !adjust});
+                    pq.push({nt, nr, nc, !adj});
                 }
             }
         }
