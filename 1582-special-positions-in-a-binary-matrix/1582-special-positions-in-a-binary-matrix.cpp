@@ -15,6 +15,7 @@ public:
                 }
             }
         }
+        // intersection type: both vector 1's count should 1 
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
                 if(mat[i][j]==1 && rcnt[i]==1 && ccnt[j]==1) cnt++; 
