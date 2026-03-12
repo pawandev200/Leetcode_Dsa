@@ -12,5 +12,6 @@ select l.name
 from employee as l 
 join employee as r 
 on l.id = r.managerId
+group by r.managerId
 having count(r.managerId)>=5;
 
