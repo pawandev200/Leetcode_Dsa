@@ -39,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [1661-average-time-of-process-per-machine](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 <!---LeetCode Topics End-->
