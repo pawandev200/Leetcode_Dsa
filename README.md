@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0185-department-top-three-salaries](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0620-not-boring-movies](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0620-not-boring-movies/) | Easy |
 | [1075-project-employees-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1075-project-employees-i/) | Easy |
