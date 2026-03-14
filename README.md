@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0550-game-play-analysis-iv](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0620-not-boring-movies](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0620-not-boring-movies/) | Easy |
+| [0626-exchange-seats](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0626-exchange-seats/) | Medium |
 | [1075-project-employees-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1075-project-employees-i/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1193-monthly-transactions-i/) | Medium |
