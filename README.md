@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0185-department-top-three-salaries](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0550-game-play-analysis-iv](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0585-investments-in-2016](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0585-investments-in-2016/) | Medium |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0620-not-boring-movies](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0626-exchange-seats/) | Medium |
