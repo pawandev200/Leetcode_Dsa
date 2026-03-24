@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1341-movie-rating](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1341-movie-rating/) | Medium |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1729-find-followers-count](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1934-confirmation-rate](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1934-confirmation-rate/) | Medium |
