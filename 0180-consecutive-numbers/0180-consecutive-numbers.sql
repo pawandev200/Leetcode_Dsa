@@ -5,6 +5,7 @@
 -- group by num
 -- having count(id) >=3
 
+-- for consecutive number: id, id+1, id+2  since id is primary key 
 select distinct(l1.num) as ConsecutiveNums
 from Logs l1 
 inner join Logs l2 on l1.id = l2.id -1 
