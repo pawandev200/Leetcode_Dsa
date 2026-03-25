@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1251-average-selling-price](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1321-restaurant-growth/) | Medium |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1341-movie-rating/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
