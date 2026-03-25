@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0176-second-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0196-delete-duplicate-emails](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0585-investments-in-2016](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0585-investments-in-2016/) | Medium |
