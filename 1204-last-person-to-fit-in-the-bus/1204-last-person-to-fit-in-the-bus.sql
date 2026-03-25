@@ -1,7 +1,6 @@
 # Write your MySQL query statement below
-SELECT 
--- *
-q1.person_name
+
+SELECT q1.person_name
 FROM Queue as q1 
 JOIN Queue as q2 
 ON q1.turn >= q2.turn
