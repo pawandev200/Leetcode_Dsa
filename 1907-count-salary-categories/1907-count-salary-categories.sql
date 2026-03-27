@@ -18,13 +18,13 @@ SELECT 'Low Salary' AS category,
  count(case when income < 20000 then 1 end ) as accounts_count
 FROM Accounts
 
-union 
+union all 
 
 SELECT 'Average Salary' AS category,
  count(case when income >= 20000 and income <= 50000 then 1 end ) as accounts_count
 FROM Accounts
 
-union 
+union all 
 
 SELECT 'High Salary' AS category,
  count(case when income > 50000 then 1 end ) as accounts_count
