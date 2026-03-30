@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Database
 | Problem Name | Difficulty |
