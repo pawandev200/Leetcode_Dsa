@@ -1,5 +1,8 @@
 class Solution {
 public:
+
+// applying bs on finding the equal ele: suppose mid is that equality value 
+// then according to cost val adjusting mid: 
     long long getCost(long long mid, vector<int>& nums, vector<int>& cost){
         long long tc = 0; 
         for(int i=0; i<nums.size(); i++){
