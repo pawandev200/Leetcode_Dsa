@@ -10,11 +10,11 @@ public:
         // if found, then swap with just greater val
         if(i>=0){
             int j = n-1; 
-            while(nums[i] >= nums[j]) j--;
+            while(nums[i] >= nums[j]) j--; // Find smallest element > nums[i]
             swap(nums[i], nums[j]); 
         }
 
-        // reverse the right part to get next: 
+        // reverse the right part to get smallest one: 
         reverse(nums.begin() + i + 1, nums.end());
     }
 };
