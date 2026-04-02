@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0881-boats-to-save-people](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
