@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2105-watering-plants-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2105-watering-plants-ii/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
+| [2761-prime-pairs-with-target-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2906-construct-product-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0556-next-greater-element-iii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2761-prime-pairs-with-target-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Binary Search
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0204-count-primes/) | Medium |
+| [2761-prime-pairs-with-target-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -218,4 +221,5 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0204-count-primes/) | Medium |
+| [2761-prime-pairs-with-target-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 <!---LeetCode Topics End-->
