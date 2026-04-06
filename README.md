@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pawandev200/Leetcode_Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Tree
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2183-count-array-pairs-divisible-by-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2906-construct-product-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 <!---LeetCode Topics End-->
