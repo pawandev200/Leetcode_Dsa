@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pawandev200/Leetcode_Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0204-count-primes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0204-count-primes/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0874-walking-robot-simulation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2105-watering-plants-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2105-watering-plants-ii/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Counting
