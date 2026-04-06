@@ -8,7 +8,6 @@ public:
             if(nums[i] < mini) mini = nums[i];
             if(nums[i] > maxi) maxi = nums[i];
         }
-        cout<<mini <<maxi;
         return __gcd(mini, maxi);
     }
 };
