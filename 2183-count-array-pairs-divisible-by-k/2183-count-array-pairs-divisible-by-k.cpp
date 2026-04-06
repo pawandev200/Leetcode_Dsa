@@ -9,7 +9,7 @@ public:
             int g = __gcd(nums[i], k); 
 
             for(auto[gi, cnt]: mp){
-                long long val = (long long)g*gi; 
+                long long val = 1LL*g*gi; 
                 if(val % k == 0) tcnt+=cnt; 
             }
             mp[g]++; 
