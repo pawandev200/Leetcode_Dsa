@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0204-count-primes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0204-count-primes/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0786-k-th-smallest-prime-fraction](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Backtracking
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
