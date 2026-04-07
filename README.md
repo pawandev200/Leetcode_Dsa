@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 ## Design
