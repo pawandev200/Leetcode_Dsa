@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0263-ugly-number/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0866-prime-palindrome](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0866-prime-palindrome/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0204-count-primes/) | Medium |
+| [0866-prime-palindrome](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0866-prime-palindrome/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
