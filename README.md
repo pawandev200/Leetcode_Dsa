@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0874-walking-robot-simulation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [1250-check-if-it-is-a-good-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0556-next-greater-element-iii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0866-prime-palindrome](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0866-prime-palindrome/) | Medium |
+| [1250-check-if-it-is-a-good-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1447-simplified-fractions](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1447-simplified-fractions/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0204-count-primes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0204-count-primes/) | Medium |
 | [0866-prime-palindrome](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0866-prime-palindrome/) | Medium |
+| [1250-check-if-it-is-a-good-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1447-simplified-fractions](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1447-simplified-fractions/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
