@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3643-flip-square-submatrix-vertically](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
