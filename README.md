@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2183-count-array-pairs-divisible-by-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2906-construct-product-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2906-construct-product-matrix/) | Medium |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Database
