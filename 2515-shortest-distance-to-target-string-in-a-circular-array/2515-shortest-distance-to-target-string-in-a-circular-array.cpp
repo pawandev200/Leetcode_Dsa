@@ -1,29 +1,15 @@
 class Solution {
 public:
-    int closestTarget(vector<string>& words, string t, int si) {
+    int closestTarget(vector<string>& words, string t, int st) {
         int n = words.size();
-        if(words[si] == t) return 0; 
-        bool found = false; 
-        int cnt1 = 0;  
-        for(int i=si; i<2*n; i++){
-            cnt1++; 
-            if(words[(i+1)%n] == t) {
-                found = true; 
-                break; 
-            }
-        }
-        int cnt2 = 0;  
-        int f = 0; 
-        for(int i=si; i>-n; i--){
-            cnt2++; 
-            if(words[(i-1+n)%n] == t) {
-                found = true; 
-                f++; 
-                break; 
+        int ans = INT_MAX; 
+        for(int i=0; i<n; i++){
+            if(words[i] == t){
+                int fidx = (i - st + n)%n; 
+                int bidx = (st - i + n)%n;
+                ans = min(ans, min(fidx, bidx));
             } 
         }
-        cout<<cnt1<<" "<<cnt2<<f;
-        if(!found) return -1; 
-        return min(cnt1, cnt2);
+        return ans == INT_MAX ? -1 : ans; 
     }
 };
