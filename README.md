@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [3488-closest-equal-element-queries](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Tree
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
