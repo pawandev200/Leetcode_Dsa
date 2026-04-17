@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
