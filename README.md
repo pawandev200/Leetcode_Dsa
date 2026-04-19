@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0878-nth-magical-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0878-nth-magical-number/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2601-prime-subtraction-operation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2601-prime-subtraction-operation/) | Medium |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2105-watering-plants-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2105-watering-plants-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Dynamic Programming
