@@ -8,7 +8,7 @@ public:
         if(mp.size()<=1) return 0; 
         int ans = 0; 
         for(int i=0; i<n; i++){
-            for(auto [num, idx]: mp){
+            for(const auto& [num, idx]: mp){
                 if(num!=colors[i]) ans = max(ans, abs(idx - i));
             }
         }
