@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0031-next-permutation/) | Medium |
 | [0046-permutations](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0046-permutations/) | Medium |
+| [0136-single-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0204-count-primes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0204-count-primes/) | Medium |
@@ -325,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0496-next-greater-element-i/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
