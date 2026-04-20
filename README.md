@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pawandev200/Leetcode_Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0204-count-primes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0204-count-primes/) | Medium |
+| [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0204-count-primes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0866-prime-palindrome](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0866-prime-palindrome/) | Medium |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
@@ -330,4 +335,5 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
