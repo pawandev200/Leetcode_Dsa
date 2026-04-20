@@ -1,4 +1,6 @@
-int maxDistance(vector<int>& colors) {
+class Solution {
+public:
+    int maxDistance(vector<int>& colors) {
     int n = colors.size();
     int ans = 0;
     // abs(i - j): maximizing the diff by first with last and vice-versa
@@ -18,3 +20,4 @@ int maxDistance(vector<int>& colors) {
     
     return ans;
 }
+};
