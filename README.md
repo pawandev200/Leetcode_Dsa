@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0874-walking-robot-simulation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pawandev200/Leetcode_Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [2121-intervals-between-identical-elements](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2615-sum-of-distances](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2615-sum-of-distances/) | Medium |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2105-watering-plants-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2105-watering-plants-ii/) | Medium |
+| [2121-intervals-between-identical-elements](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2121-intervals-between-identical-elements](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2615-sum-of-distances](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2906-construct-product-matrix/) | Medium |
