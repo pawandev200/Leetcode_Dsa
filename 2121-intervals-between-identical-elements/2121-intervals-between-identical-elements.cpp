@@ -5,13 +5,10 @@ public:
         unordered_map<int, vector<int>>mp; // num, indices; 
         for(int i=0; i<n; i++) mp[nums[i]].push_back(i);
 
-        vector<long long>ans(n); 
+        vector<long long>ans(n, 0); 
         for(const auto& [num, posv]: mp){
             int m = posv.size();
-            if(m==1){
-                // ans.push_back(0);
-                continue; 
-            }
+            if(m==1) continue;  // already intialized with 0
 
             long long ts = 0; 
             for(int k=0; k<m; k++) ts+=posv[k];
