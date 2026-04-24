@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Database
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+| [2833-furthest-point-from-origin](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
