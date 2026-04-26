@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0204-count-primes/) | Medium |
+| [0231-power-of-two](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0556-next-greater-element-iii/) | Medium |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0136-single-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1720-decode-xored-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1720-decode-xored-array/) | Easy |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
