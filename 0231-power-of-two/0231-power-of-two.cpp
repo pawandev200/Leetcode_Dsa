@@ -6,6 +6,7 @@ public:
         //     if(1<<i == n) return true; 
         // }
         // return false; 
+        if(n<=0) return false; 
         return n && !(n & (n-1));
     }
 };
