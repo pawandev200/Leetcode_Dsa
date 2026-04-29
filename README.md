@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0050-powx-n/) | Medium |
 | [0204-count-primes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0263-ugly-number/) | Easy |
@@ -367,5 +368,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
