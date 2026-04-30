@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0342-power-of-four/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -375,5 +376,6 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0050-powx-n](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
