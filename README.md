@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0477-total-hamming-distance](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0477-total-hamming-distance/) | Medium |
 | [0496-next-greater-element-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0342-power-of-four/) | Easy |
+| [0477-total-hamming-distance](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0477-total-hamming-distance/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0866-prime-palindrome](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0866-prime-palindrome/) | Medium |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0342-power-of-four/) | Easy |
+| [0477-total-hamming-distance](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0477-total-hamming-distance/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1720-decode-xored-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1720-decode-xored-array/) | Easy |
