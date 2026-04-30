@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Matrix
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3546-equal-sum-grid-partition-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3742-maximum-path-score-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
