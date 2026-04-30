@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0786-k-th-smallest-prime-fraction](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0881-boats-to-save-people/) | Medium |
+| [0898-bitwise-ors-of-subarrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0898-bitwise-ors-of-subarrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Enumeration
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0342-power-of-four/) | Easy |
+| [0898-bitwise-ors-of-subarrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1720-decode-xored-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1720-decode-xored-array/) | Easy |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3209-number-of-subarrays-with-and-value-of-k/) | Hard |
