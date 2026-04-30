@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3209-number-of-subarrays-with-and-value-of-k/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2601-prime-subtraction-operation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2601-prime-subtraction-operation/) | Medium |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3209-number-of-subarrays-with-and-value-of-k/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Greedy
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0342-power-of-four/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1720-decode-xored-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1720-decode-xored-array/) | Easy |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3209-number-of-subarrays-with-and-value-of-k/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0342-power-of-four/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3209-number-of-subarrays-with-and-value-of-k/) | Hard |
 <!---LeetCode Topics End-->
