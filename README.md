@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0476-number-complement](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0476-number-complement/) | Easy |
 | [0477-total-hamming-distance](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0477-total-hamming-distance/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
+| [1009-complement-of-base-10-integer](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1720-decode-xored-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1720-decode-xored-array/) | Easy |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
