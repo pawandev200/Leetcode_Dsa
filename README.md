@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0389-find-the-difference/) | Easy |
+| [0476-number-complement](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0476-number-complement/) | Easy |
 | [0477-total-hamming-distance](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0477-total-hamming-distance/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
