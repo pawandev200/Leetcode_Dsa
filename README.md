@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2670-find-the-distinct-difference-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2681-power-of-heroes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2681-power-of-heroes/) | Hard |
 | [2761-prime-pairs-with-target-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [2865-beautiful-towers-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2865-beautiful-towers-i/) | Medium |
 | [2906-construct-product-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
@@ -381,10 +382,12 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0496-next-greater-element-i/) | Easy |
+| [2865-beautiful-towers-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2865-beautiful-towers-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0496-next-greater-element-i/) | Easy |
+| [2865-beautiful-towers-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2865-beautiful-towers-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
