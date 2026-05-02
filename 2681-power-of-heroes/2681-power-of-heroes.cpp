@@ -1,8 +1,8 @@
 class Solution {
 public:
+    const int mod =  1e9 + 7;
     int sumOfPower(vector<int>& nums) {
         sort(nums.begin(), nums.end());
-        long long mod = 1e9 + 7;
 
         long long pf = 0;
         long long ans = 0;
