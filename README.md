@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2601-prime-subtraction-operation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2601-prime-subtraction-operation/) | Medium |
 | [2615-sum-of-distances](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2615-sum-of-distances/) | Medium |
 | [2670-find-the-distinct-difference-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2670-find-the-distinct-difference-array/) | Easy |
+| [2681-power-of-heroes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2681-power-of-heroes/) | Hard |
 | [2761-prime-pairs-with-target-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2906-construct-product-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2601-prime-subtraction-operation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2601-prime-subtraction-operation/) | Medium |
+| [2681-power-of-heroes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2681-power-of-heroes/) | Hard |
 | [2761-prime-pairs-with-target-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
+| [2681-power-of-heroes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2681-power-of-heroes/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Prefix Sum
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2121-intervals-between-identical-elements](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2615-sum-of-distances](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2615-sum-of-distances/) | Medium |
+| [2681-power-of-heroes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2681-power-of-heroes/) | Hard |
 | [2906-construct-product-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0788-rotated-digits](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0788-rotated-digits/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [2681-power-of-heroes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2681-power-of-heroes/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
