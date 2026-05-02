@@ -16,6 +16,10 @@ public:
                 temp +=curr;
             }
             ans = max(ans, temp);
+            // if(temp>=ans){
+            //     ans = temp; 
+            //     cout<<hts[i]; // finding at which peak getting the max sum
+            // }
         }
         return ans; 
     }
