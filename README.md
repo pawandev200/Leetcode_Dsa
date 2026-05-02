@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0477-total-hamming-distance](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0477-total-hamming-distance/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0788-rotated-digits](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0788-rotated-digits/) | Medium |
 | [0866-prime-palindrome](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0866-prime-palindrome/) | Medium |
 | [0878-nth-magical-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0878-nth-magical-number/) | Hard |
 | [1250-check-if-it-is-a-good-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0396-rotate-function/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0788-rotated-digits](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0788-rotated-digits/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
