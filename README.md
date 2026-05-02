@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0874-walking-robot-simulation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pawandev200/Leetcode_Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [1224-maximum-equal-frequency](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1224-maximum-equal-frequency/) | Hard |
 | [2121-intervals-between-identical-elements](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [1224-maximum-equal-frequency](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1224-maximum-equal-frequency/) | Hard |
 | [1250-check-if-it-is-a-good-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
