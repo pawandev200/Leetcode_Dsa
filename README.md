@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0556-next-greater-element-iii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0777-swap-adjacent-in-lr-string](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
+| [0796-rotate-string](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0796-rotate-string/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1447-simplified-fractions](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1447-simplified-fractions/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -425,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3209-number-of-subarrays-with-and-value-of-k/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
