@@ -4,10 +4,11 @@ public:
         int f = 0, s = 0; 
         int fc = 0, sc = 0; 
         for(const int& num: nums){ 
+            if(fc == 0) f = num; 
+            else if(sc ==0) s = num; 
+            
             if(f == num) fc++; 
-            else if(s == num) sc++; 
-            else if (fc == 0) {f = num; fc++;} 
-            else if(sc ==0) {s = num; sc++;}
+            else if(s ==num) sc++;
             else {
                 fc--; 
                 sc--; 
