@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0338-counting-bits](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0338-counting-bits/) | Easy |
 | [0396-rotate-function](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0396-rotate-function/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0788-rotated-digits](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0788-rotated-digits/) | Medium |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0476-number-complement](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0476-number-complement/) | Easy |
