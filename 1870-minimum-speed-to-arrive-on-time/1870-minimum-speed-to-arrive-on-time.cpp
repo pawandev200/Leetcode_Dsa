@@ -13,7 +13,7 @@ public:
     int minSpeedOnTime(vector<int>& dist, double h) {
         int n  = dist.size(); 
         int l = 1; 
-        int r =  accumulate(dist.begin(), dist.end(), 0);
+        int r = 1e7; // accumulate(dist.begin(), dist.end(), 0);
         int ans = -1; 
         while(l<=r){
             int mid = l + (r-l)/2;  // speed 
