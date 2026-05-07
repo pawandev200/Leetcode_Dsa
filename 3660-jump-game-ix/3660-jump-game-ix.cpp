@@ -1,5 +1,7 @@
 class Solution {
 public:
+// if there exists: a larger value somewhere on the left (prefix) and and a smaller value somewhere on the right/suffix => then first jump RIGHT to that minimum value and from here jump LEFT back to the larger(maximum) value. 
+
     vector<int> maxValue(vector<int>& nums) {
         int n = nums.size();
         vector<int>pf(n, 0), sf(n, 0);
@@ -12,7 +14,7 @@ public:
             else sf[i] = min(sf[i+1], nums[i]);
         }
 
-        // need to compare and find the maxm reachable value: 
+        // if max val so far>min val in last seg, then curr ans is last seg ans 
         vector<int>ans(n);
         ans[n-1] = pf[n-1]; 
         for(int i=n-2; i>=0; i--){
