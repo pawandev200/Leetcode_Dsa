@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0496-next-greater-element-i/) | Easy |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0204-count-primes/) | Medium |
+| [0229-majority-element-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0396-rotate-function/) | Medium |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2833-furthest-point-from-origin/) | Easy |
