@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pawandev200/Leetcode_Dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3488-closest-equal-element-queries](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3660-jump-game-ix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3660-jump-game-ix/) | Medium |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2601-prime-subtraction-operation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2601-prime-subtraction-operation/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
