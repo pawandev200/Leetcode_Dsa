@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1914-cyclically-rotating-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1861-rotating-the-box](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1914-cyclically-rotating-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2105-watering-plants-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2105-watering-plants-ii/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
