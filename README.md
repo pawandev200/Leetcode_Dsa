@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2448-minimum-cost-to-make-array-equal](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2601-prime-subtraction-operation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2601-prime-subtraction-operation/) | Medium |
 | [2615-sum-of-distances](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2615-sum-of-distances/) | Medium |
 | [2670-find-the-distinct-difference-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2670-find-the-distinct-difference-array/) | Easy |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2069-walking-robot-simulation-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2105-watering-plants-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2105-watering-plants-ii/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Counting
