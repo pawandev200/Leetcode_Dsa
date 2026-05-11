@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0031-next-permutation/) | Medium |
 | [0046-permutations](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0136-single-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0389-find-the-difference](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
