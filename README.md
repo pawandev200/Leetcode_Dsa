@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1559-detect-cycles-in-2d-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1720-decode-xored-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1720-decode-xored-array/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0881-boats-to-save-people](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0881-boats-to-save-people/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
