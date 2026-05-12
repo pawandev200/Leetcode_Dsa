@@ -9,12 +9,16 @@ public:
         for(int i = 0; i < k; i++) removed[rem[i]] = true;
 
         // subsequence check
-        int j = 0;
-        for(int i = 0; i < s.size() && j < p.size(); i++) {
-            if(removed[i]) continue;
-            if(s[i] == p[j]) j++;
+        int i = 0; // for s 
+        int j = 0; // for p
+        while(i < s.size() && j < p.size()){
+            if(removed[i]) {
+                i++; 
+                continue;
+            }
+            else if(s[i] == p[j]) j++;
+            i++; 
         }
-
         return j == p.size();
     }
     int maximumRemovals(string s, string p, vector<int>& rem) {
