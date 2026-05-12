@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1898-maximum-number-of-removable-characters](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1447-simplified-fractions](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1447-simplified-fractions/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1898-maximum-number-of-removable-characters](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [1898-maximum-number-of-removable-characters](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2601-prime-subtraction-operation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2601-prime-subtraction-operation/) | Medium |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1861-rotating-the-box/) | Medium |
+| [1898-maximum-number-of-removable-characters](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [2105-watering-plants-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2105-watering-plants-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Dynamic Programming
