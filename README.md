@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0878-nth-magical-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0878-nth-magical-number/) | Hard |
 | [1250-check-if-it-is-a-good-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1447-simplified-fractions](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1447-simplified-fractions/) | Medium |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0878-nth-magical-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0878-nth-magical-number/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
