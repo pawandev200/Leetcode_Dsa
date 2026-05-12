@@ -16,7 +16,7 @@ public:
             mini += tasks[i][0];
             maxi += tasks[i][1];
         }
-        // sorting the task: 
+        // sorting the task: decreasing order of diff 
         sort(tasks.begin(), tasks.end(), [&](auto &a, auto &b){
             return (a[1] - a[0]) > (b[1] - b[0]);
         }); 
