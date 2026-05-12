@@ -17,6 +17,8 @@ public:
             maxi += tasks[i][1];
         }
         // sorting the task: decreasing order of diff 
+        // hard to enter should done first and rem energy should be maximize to next
+        // result do first which diff is maximum: 
         sort(tasks.begin(), tasks.end(), [&](auto &a, auto &b){
             return (a[1] - a[0]) > (b[1] - b[0]);
         }); 
