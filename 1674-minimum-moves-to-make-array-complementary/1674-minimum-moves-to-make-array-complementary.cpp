@@ -4,7 +4,7 @@ public:
         int n = nums.size(); // even len
 
         // tar sum range: [2, 2*lim] and for each target, 0, 1 or 2 moves possible
-        // intially assume all have 2 moves, and decrease at specific range: 
+        // for every pair, assume all have 2 moves, and dec at specific range: 
         // 0 move -> cs ==t 
         // 1 move -> [1+min(a, b), lim + max(a, b)] out side of range is 2
 
@@ -28,8 +28,8 @@ public:
 
         int mini = INT_MAX;
         int curr = 0; 
-        for(int i=2; i<=2*lim; i++){
-            curr+=pdiff[i];
+        for(int i=2; i<=2*lim; i++){ 
+            curr+=pdiff[i]; // total moves req for current ts
             mini = min(mini, curr);
         }
 
