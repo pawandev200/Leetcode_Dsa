@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1224-maximum-equal-frequency](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1224-maximum-equal-frequency/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1720-decode-xored-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1720-decode-xored-array/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
