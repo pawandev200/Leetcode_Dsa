@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0389-find-the-difference](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0389-find-the-difference/) | Easy |
+| [0392-is-subsequence](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0777-swap-adjacent-in-lr-string](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0031-next-permutation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0392-is-subsequence](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0777-swap-adjacent-in-lr-string](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0338-counting-bits/) | Easy |
+| [0392-is-subsequence](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0396-rotate-function/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0788-rotated-digits](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0788-rotated-digits/) | Medium |
