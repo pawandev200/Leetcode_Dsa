@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2615-sum-of-distances](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2615-sum-of-distances/) | Medium |
 | [2670-find-the-distinct-difference-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2670-find-the-distinct-difference-array/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2681-power-of-heroes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2681-power-of-heroes/) | Hard |
 | [2761-prime-pairs-with-target-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2865-beautiful-towers-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2865-beautiful-towers-i/) | Medium |
 | [2906-construct-product-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2681-power-of-heroes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2681-power-of-heroes/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Prefix Sum
