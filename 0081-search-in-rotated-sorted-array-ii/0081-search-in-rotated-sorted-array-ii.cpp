@@ -63,9 +63,20 @@ public:
         int p = pivot(nums, 0 , n-1);
         cout <<"p = " << p << endl;
 
-        if(binarySearch(nums, 0, p-1, t)) return true;
+        int l, r;
 
-        return binarySearch(nums, p, n-1, t);
+        // target lies in left sorted half
+        if (t >= nums[0]) {
+            l = 0;
+            r = (p == 0 ? n - 1 : p - 1);
+        }
+        else {
+            // t lies in right sorted half
+            l = p;
+            r = n - 1;
+        }
+
+        return binarySearch(nums, l, r, t);
             
     }
 };
