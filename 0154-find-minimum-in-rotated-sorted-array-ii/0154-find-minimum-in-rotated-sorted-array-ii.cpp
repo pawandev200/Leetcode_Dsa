@@ -4,20 +4,27 @@ public:
         int n = nums.size();
 
         int l = 0;
-        int r = n-1;
-        int ans = nums[0];
+        int r = n - 1;
+        int ans = nums[0]; 
 
-        // remove duplicates from beginning
-        while (l < n && nums[l] == nums[n-1]) l++;
-
-        while (l <= r) {
+        while (l <= r) {   
             int mid = l + ((r - l) >> 1);
+            
+            // Record the current mid element into ans
+            ans = min(ans, nums[mid]);
 
-            if (nums[mid] <= nums[n-1]) {
-                ans = nums[mid];
+            if (nums[mid] < nums[r]) { 
+                // Right half is sorted, min could be mid or to the left
                 r = mid - 1; 
             }
-            else  l = mid + 1;
+            else if (nums[mid] > nums[r]) {
+                // Left half is sorted, min must be to the right
+                l = mid + 1;
+            }
+            else { // nums[mid] == nums[r]
+                // nums[mid] recorded into ans,so safe to shrink the sp
+                r--; 
+            }
         }
 
         return ans;
