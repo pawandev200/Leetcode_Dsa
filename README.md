@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0049-group-anagrams/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0136-single-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
