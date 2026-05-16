@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0477-total-hamming-distance](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0477-total-hamming-distance/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0496-next-greater-element-i/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0645-set-mismatch](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0704-binary-search/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0704-binary-search/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
