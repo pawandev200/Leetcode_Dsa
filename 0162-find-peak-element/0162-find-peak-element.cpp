@@ -28,8 +28,8 @@ Slope dir gives guaranteed peak existence. No need if array is sorted
             // handling plateau depens or problems, strict maxima or not, etc 
 
             // increasing slope -> peak on right
-            else if (mid + 1 < n && nums[mid] < nums[mid + 1]) l = mid + 1;
-            else r = mid - 1;
+            else if (mid + 1 < n && nums[mid] > nums[mid + 1]) r = mid - 1;
+            else l = mid + 1;
         }
         return ans; 
     }
