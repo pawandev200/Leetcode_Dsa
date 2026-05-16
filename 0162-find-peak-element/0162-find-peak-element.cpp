@@ -41,5 +41,5 @@ If nums[mid] == nums[mid + 1]: we can't discard either side. then we can shrink 
 [1,2,2,2,3] At middle: 2 == 2 how would you handle: 
 [3,2,2,2,1]
 
-if(mid < n - 1 && nums[mid] == nums[mid + 1]) then r = mid-1, l++, or r--, etc depends on problem like: strict maxima or not, 
+if(mid < n - 1 && nums[mid] == nums[mid + 1]) then r = mid-1, l++, or r--, etc depends on problem like: strict maxima or not, we may shrink the search space, etc.
 */
