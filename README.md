@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0704-binary-search/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0633-sum-of-square-numbers](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0704-binary-search/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0878-nth-magical-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0878-nth-magical-number/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
