@@ -24,6 +24,6 @@ this pattern follow then go to right part: answre present there.
             }
             else  l = mid + 2; // pattern is okay in lh 
         }
-        return nums[l];
+        return ans;
     }
 };
