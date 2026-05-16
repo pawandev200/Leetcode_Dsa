@@ -6,6 +6,8 @@ public:
         int l = 0; 
         int r = n-1;
         int ans = n-1; 
+
+        while (l < n && nums[l] == nums[n - 1]) l++;
         while(l<=r){
             int mid = (l+r)/2;
 
