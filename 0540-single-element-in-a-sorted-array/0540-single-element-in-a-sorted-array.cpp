@@ -9,8 +9,9 @@ this pattern follow then go to right part: answre present there.
 */
     int singleNonDuplicate(vector<int>& nums) {
         int n = nums.size();
+        if(n==1) return nums[0];
         int l = 0; 
-        int r = n-2;
+        int r = n-1;
         int ans = nums[0]; 
         while(l<=r){
             int mid = l + (r-l)/2;
