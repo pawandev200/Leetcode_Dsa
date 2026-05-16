@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0049-group-anagrams/) | Medium |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
