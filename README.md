@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1224-maximum-equal-frequency](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1224-maximum-equal-frequency/) | Hard |
 | [1250-check-if-it-is-a-good-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0786-k-th-smallest-prime-fraction](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0878-nth-magical-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0878-nth-magical-number/) | Hard |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
