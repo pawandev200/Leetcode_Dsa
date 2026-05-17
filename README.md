@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0204-count-primes/) | Medium |
 | [0229-majority-element-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0229-majority-element-ii/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0396-rotate-function/) | Medium |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0048-rotate-image/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0268-missing-number/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0191-number-of-1-bits/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/pawandev200/Leetcode_Dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pawandev200/Leetcode_Dsa/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pawandev200/Leetcode_Dsa/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Quickselect
